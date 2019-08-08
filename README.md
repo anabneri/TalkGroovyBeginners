@@ -24,8 +24,19 @@ https://sdkman.io/install
 ***-- E para acessar seu console, digite:***
 `sdk groovyConsole`
 
-*Vou deixar aqui alguns exemplos de códigos básicos para dar uma brincada, os mesmos eu extrai do site: (https://edermfl.wordpress.com/2015/12/22/goovy-1-conceitos-basicos/), achei bem bacana vale a pena dar uma lida depois*
+*Vou deixar aqui alguns exemplos de códigos básicos para dar uma brincada*
 
-`println "Groovy é o cara!"
+`println "Groovy é o cara!"  
+
  println "Groovy é o cara!"; println "Tá gostando?"`
+ 
+`def soma(a,b) {  
+    a + b  
+}  
+90 + 90`
+
+`def sub(a,b) {  
+    a - b  
+}  
+90 - 90`
  
