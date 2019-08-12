@@ -40,4 +40,4 @@ https://sdkman.io/install
  
  
  *Caso você tenha curtido, eu indico a plataforna IntelliJ para você iniciar de fato um projeto Groovy*
- **O itelliJ tem suporte ao Groovy e ao Grails, além de ser uma plataforma de programação totalmente sujestiva, tanto para quem está começando, quanto pra quem já programanda à tempos**
+ **O itelliJ tem suporte ao Groovy e ao Grails, além de ser uma plataforma de programação totalmente sujestiva, tanto para quem está começando, quanto pra quem já programador à tempos**
